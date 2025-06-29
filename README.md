@@ -64,3 +64,7 @@ El análisis incluye los siguientes pasos:
 *   Implementar modelos predictivos para predecir el abandono de clientes.
 *   Explorar otras variables y combinaciones de variables.
 *   Crear un informe más detallado con interpretaciones y recomendaciones.
+
+
+https://github.com/user-attachments/assets/1e07a9b7-1f6a-4f2a-ae8f-c8e0ec6ae6c5
+
